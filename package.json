@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "vuepress build docs",
+    "dev": "vuepress dev docs"
+  },
+  "dependencies": {
+    "quasar-framework": "^0.16.0",
+    "sweetalert2": "^7.22.2"
+  }
+}
